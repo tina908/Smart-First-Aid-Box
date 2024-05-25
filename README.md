@@ -1,4 +1,4 @@
-# Smart-First-Aid-Box
+# Smart-First-Aid-Box-Project
 스마트 구급상자
 
 수행 기간
